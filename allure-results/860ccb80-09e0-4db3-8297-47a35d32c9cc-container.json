@@ -1,0 +1,1 @@
+{"uuid":"860ccb80-09e0-4db3-8297-47a35d32c9cc","name":"TestOnEdge","children":["4e0826e3-b059-427a-81f1-7e6f1a149611"],"befores":[{"name":"launchBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673280275337,"stop":1673280290533}],"afters":[],"start":1673280275271,"stop":1673280298137}

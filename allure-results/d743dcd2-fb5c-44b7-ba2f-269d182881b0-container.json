@@ -1,0 +1,1 @@
+{"uuid":"d743dcd2-fb5c-44b7-ba2f-269d182881b0","name":"TestOnFireFox","children":["4421c32f-6e64-4069-b1a7-67c055b87bd8"],"befores":[{"name":"launchBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673280275336,"stop":1673280309914}],"afters":[],"start":1673280275272,"stop":1673280313623}

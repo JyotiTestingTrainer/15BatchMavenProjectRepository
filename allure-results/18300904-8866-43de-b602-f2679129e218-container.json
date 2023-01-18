@@ -1,0 +1,1 @@
+{"uuid":"18300904-8866-43de-b602-f2679129e218","name":"TestOnChrome","children":["aae7afb2-9461-40ee-af57-ae66512a1256"],"befores":[{"name":"launchBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673279199222,"stop":1673279215279}],"afters":[],"start":1673279199108,"stop":1673279230796}
